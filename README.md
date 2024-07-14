@@ -8,7 +8,7 @@ The Blood Donation System is a web-based platform designed to streamline the pro
 
 The Blood Donation System is built using the following technologies:
 
--HTML , CSS ,JAVASCRIPT 
+-HTML , CSS 
 -PHP
 -MYSQL
 ## Features
